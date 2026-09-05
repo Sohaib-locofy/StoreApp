@@ -125,7 +125,7 @@ export function TeamSection() {
             Our Team
           </Badge>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">
-            Meet our team
+            Meet the people behind the product
           </h2>
           <p className="text-lg text-muted-foreground mb-8">
             We are a passionate team of innovators, builders, and problem-solvers dedicated to creating exceptional digital experiences that make a difference.
