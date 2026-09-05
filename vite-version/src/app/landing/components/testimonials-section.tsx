@@ -101,7 +101,7 @@ export function TestimonialsSection() {
         <div className="mx-auto max-w-2xl text-center mb-16">
           <Badge variant="outline" className="mb-4">Testimonials</Badge>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
-            Empowering Innovation Worldwide
+            Loved by Developers and Teams Everywhere
           </h2>
           <p className="text-lg text-muted-foreground">
             Join thousands of developers and teams who trust our platform to build exceptional digital experiences.
