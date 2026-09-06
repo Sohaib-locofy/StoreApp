@@ -58,7 +58,7 @@ const FaqSection = () => {
         <div className="mx-auto max-w-2xl text-center mb-16">
           <Badge variant="outline" className="mb-4">FAQ</Badge>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
-            Frequently Asked Questions
+            Questions, Answered
           </h2>
           <p className="text-lg text-muted-foreground">
             Everything you need to know about ShadcnStore components, licensing, and integration. Still have questions? We're here to help!
