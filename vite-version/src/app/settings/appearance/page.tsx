@@ -133,6 +133,7 @@ export default function AppearanceSettings() {
               render={({ field }) => (
                 <FormItem>
                   <FormLabel>Font Family</FormLabel>
+                  <FormLabel>Font Family</FormLabel>
                   <Select onValueChange={field.onChange} defaultValue={field.value}>
                     <FormControl>
                       <SelectTrigger className="cursor-pointer">
