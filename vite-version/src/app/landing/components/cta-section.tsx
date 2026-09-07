@@ -27,7 +27,7 @@ export function CTASection() {
                   <Separator orientation='vertical' className='!h-4' />
                   <span>25K+ Downloads</span>
                   <Separator orientation='vertical' className='!h-4' />
-                  <span>4.9★ Rating</span>
+                  <span>5.0★ Rating</span>
                 </div>
               </div>
 
@@ -37,7 +37,7 @@ export function CTASection() {
                   Supercharge your team's
                   <span className='flex sm:inline-flex justify-center'>
                     <span className='relative mx-2'>
-                      <span className='bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent'>
+                      <span className='animate-gradient-x bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent'>
                         performance
                       </span>
                       <div className='absolute start-0 -bottom-2 h-1 w-full bg-gradient-to-r from-primary/30 to-secondary/30' />
