@@ -45,7 +45,7 @@ export function HeroSection() {
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
             <Button size="lg" className="text-base cursor-pointer" asChild>
               <a href={getAppUrl("/auth/sign-up")}>
-                Start Building Free
+                Start Free
                 <ArrowRight className="ml-2 h-4 w-4" />
               </a>
             </Button>
