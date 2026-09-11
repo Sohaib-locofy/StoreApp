@@ -21,7 +21,7 @@ export function HeroSection() {
           <div className="mb-8 flex justify-center">
             <Badge variant="outline" className="px-4 py-2 border-foreground">
               <Star className="w-3 h-3 mr-2 fill-current" />
-              New: Premium Template Collection
+              New: 50+ Premium Templates
               <ArrowRight className="w-3 h-3 ml-2" />
             </Badge>
           </div>
@@ -45,7 +45,7 @@ export function HeroSection() {
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
             <Button size="lg" className="text-base cursor-pointer" asChild>
               <a href={getAppUrl("/auth/sign-up")}>
-                Get Started Free
+                Start Building Free
                 <ArrowRight className="ml-2 h-4 w-4" />
               </a>
             </Button>
